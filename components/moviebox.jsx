@@ -1,5 +1,6 @@
 import React from 'react';
 
+/* MovieBox displays the picture, title and the release date of the movie. */
 function MovieBox({ movie })
 {
     return (
